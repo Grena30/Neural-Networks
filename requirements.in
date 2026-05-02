@@ -4,7 +4,7 @@ pandas
 seaborn
 matplotlib
 scikit-learn
-tensorflow
+tensorflow[and-cuda]
 
 ## Notebooks
 jupyterlab
