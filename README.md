@@ -8,4 +8,4 @@ Dataset used - [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg
 ## Laboratory Work 2
 
 Theme - Convolutional Neural Networks
-Dataset used - 
+Dataset used - [Cats vs Dogs](https://www.kaggle.com/datasets/pushpakhinglaspure/cats-vs-dogs)
