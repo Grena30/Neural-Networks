@@ -1,0 +1,15 @@
+# DS
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+tensorflow
+
+## Notebooks
+jupyterlab
+ipykernel
+
+# Tools
+nbqa
+black
